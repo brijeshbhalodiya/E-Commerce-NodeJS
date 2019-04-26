@@ -10,5 +10,6 @@ Made with NodeJS, MongoDB
 4. Edit Products
 5. Delete Products
 6. Buy products
+7. Get invoice of the order
 
 
